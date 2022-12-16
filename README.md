@@ -7,10 +7,10 @@ Recency, frequency, and monetary value (RFM) analysis is a technique used in mar
 
 This package does the data processing for the inputted data, conducts RFM Analysis and provides ability to visualize the results and identify the most valueable customer segments. 
 
-##Installation 
+## Installation 
 
 link to package: https://pypi.org/project/customersegmentationrfm/0.0.1/
-###Dependencies
+### Dependencies
 
 * Python (>=3.7)
 * Pandas (>=1.2.4)
